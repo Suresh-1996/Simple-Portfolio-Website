@@ -1,5 +1,6 @@
 import Contact from "./components/Contact";
 import Experiance from "./components/Experiance";
+import { Footer } from "./components/Footer";
 import HeaderLeft from "./components/HeaderLeft";
 import Home from "./components/Home";
 import Project from "./components/Project";
@@ -16,6 +17,7 @@ function App() {
           <Contact />
         </main>
       </div>
+      <Footer />
     </>
   );
 }

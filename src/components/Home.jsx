@@ -29,9 +29,8 @@ const Home = () => {
           </h3>
 
           <p className="max-w-[600px] text-sm text-gray-500">
-            Describe a project you've worked on that you consider your best
-            work. Walk us through the architecture, approach, and key decisions
-            that made it stand out.
+            React Developer|Web Developer|UX/UI Desighner|Wordpress Developer|AI
+            Artist
           </p>
         </div>
         <div className="flex gap-3 ">
